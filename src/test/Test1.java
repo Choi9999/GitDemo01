@@ -3,7 +3,7 @@ package test;
 public class Test1 {
 	public static void main(String[] args) {
 		
- 	  String name = "ㅠㅠ";
+ 	  String name = "ㅠ.ㅠ";
 	  int score = 75; 
 	  char grade = ' ';
 	  
